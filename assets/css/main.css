@@ -1,0 +1,131 @@
+
+
+/* General */
+
+img {
+	width: 100%;
+	padding: 20px;
+}
+
+a {
+	color: lightseagreen;
+	text-decoration: none;
+	border-radius: 10px;
+}
+
+a:hover {
+	background-color: white;}
+
+.caption {
+	font-size: 17px;
+}
+
+/* Front Page/Index */
+
+body.frontpage {
+	background-color: black;
+}
+
+div.name {
+
+	color:whitesmoke;
+	font-size: 300px;
+
+	text-align: center;
+	font-family: 'Times New Roman', Times, serif;
+	padding-top: 1%;
+	;
+
+
+
+}
+
+div.exit {
+	padding-left: 5%;
+	color: red;
+	
+
+}
+/* Paypal Mafia */
+
+body.paypalmafia {
+	background-color: darkred;
+	padding: 20px
+}
+
+.intro {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.portrait {
+	width: 40%;
+	margin-right: 20px;
+}
+.bio {
+	 width:50%;
+	 font-size: 30px;
+
+ }
+
+ div.bio {
+	 color: whitesmoke;
+	 margin-top: 20px;
+	 font-family: 'Times New Roman', Times, serif;
+ }
+
+/* Elon Musk */
+
+div.elonbio {
+	width: 90%;
+	font-size: 30px;
+	background-color: black;
+	border-radius: 10px;
+	color:white;
+	padding: 10px;
+	align-self: center;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+body.elonmusk {
+	background-color: lightseagreen;
+	width: 50%;
+	padding:20px;
+	margin-left: auto;
+	margin-right: auto;
+} 
+
+
+/* Tesla */
+
+body.tesla {
+	background-color: blueviolet;
+}
+
+div.teslabio {
+	width: 90%;
+	font-size: 30px;
+	background-color: black;
+	border-radius: 10px;
+	color:white;
+	padding: 10px;
+	align-self: center;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+/* Simulation */
+
+body.simulation {
+	background-color:yellow;
+}
+
+div.entersimulation {
+	margin: auto;
+	align-self: center;
+	padding: 250px;
+	width: 300px;
+	color: tomato;
+
+}
